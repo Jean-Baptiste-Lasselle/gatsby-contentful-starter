@@ -9,6 +9,11 @@ git config user.name "Jean-Baptiste-Lasselle"
 git config user.email "jean.baptiste.lasselle.it@gmail.com"
 
 ```
+And then (cf. https://www.youtube.com/watch?v=NkFz2psDupw&list=PL2dKqfImstaRbjzzirbBfv9W2kycaKjvs&index=4) : 
+
+```bash
+gatsby develop
+```
 
 
 
