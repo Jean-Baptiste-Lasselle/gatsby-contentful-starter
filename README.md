@@ -1,3 +1,18 @@
+# Reverse devopsing
+
+```bash
+npm install -g gatsby-cli && gatsby new contentful-starter https://github.com/Jean-Baptiste-Lasselle/gatsby-contentful-starter 
+git config --global user.name "Jean-Baptiste-Lasselle" 
+git config --global user.email "jean.baptiste.lasselle.it@gmail.com"
+cd contentful-starter/
+git config user.name "Jean-Baptiste-Lasselle"
+git config user.email "jean.baptiste.lasselle.it@gmail.com"
+
+```
+
+
+
+
 # gatsby-contentful-starter
 
 Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
